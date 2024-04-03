@@ -1,5 +1,5 @@
-#include <stdio.h>
-#include <string.h>
+#include <iostream>;
+usingnamespace std;
 
 #define MAX_STUDENTS 100
 
